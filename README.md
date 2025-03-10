@@ -1,7 +1,7 @@
 # HierDAMap
 
 ## HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors
-Siyu Li, Yihong Cao, Hao Shi, Yongsheng Zang, Xuan He,[Kailun Yang](https://yangkailun.com/)†, [Zhiyong Li](http://robotics.hnu.edu.cn/info/1071/1515.htm)†
+Siyu Li, Yihong Cao, Hao Shi, Yongsheng Zang, Xuan He, [Kailun Yang](https://yangkailun.com/)†, [Zhiyong Li](http://robotics.hnu.edu.cn/info/1071/1515.htm)†
 
 ## Motivation
 <div align=center>
@@ -22,3 +22,12 @@ The exploration of Bird's-Eye View (BEV) mapping technology has driven significa
 ## 🤝 Publication:
 Please consider referencing this paper if you use the ```code``` from our work.
 Thanks a lot :)
+
+```
+@article{li2025hierdamap,
+  title={HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors},
+  author={Li, Siyu and Cao, Yihong and Shi, Hao and Zang, Yongsheng and He, Xuan and Yang, Kailun and Li, Zhiyong},
+  journal={arXiv preprint arXiv:2503.xxxxx},
+  year={2025}
+}
+```
