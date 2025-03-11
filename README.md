@@ -1,3 +1,31 @@
+<p align="center">
+
+  <h1 align="center">HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors</h1>
+  <p align="center">
+    <a href="https://www.researchgate.net/profile/Siyu-Li-45"><strong>Siyu Li</strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=j3364z8AAAAJ"><strong>Yihong Cao</strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?hl=zh-CN&user=0EI9msQAAAAJ"><strong>Hao Shi</strong></a>
+    ·
+    <a href=""><strong>Yongsheng Zang</strong></a>
+    ·
+    <a href="https://github.com/mikasa3lili"><strong>Xuan He</strong></a>
+    ·
+    <a href="https://yangkailun.com/"><strong>Kailun Yang†</strong></a>
+    ·
+    <a href="http://robotics.hnu.edu.cn/info/1071/1515.htm"><strong>Zhiyong Li†</strong></a>
+</p>
+
+<p align="center">
+    <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
+    <br>
+    <a href="https://arxiv.org/pdf/2503.06821">
+      <img src='https://img.shields.io/badge/Paper-green?style=for-the-badge&logo=adobeacrobatreader&logoWidth=20&logoColor=white&labelColor=66cc00&color=94DD15' alt='Paper PDF'>
+    </a>
+</p>
+
+
 # HierDAMap
 
 ## HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors
@@ -27,7 +55,7 @@ Thanks a lot :)
 @article{li2025hierdamap,
   title={HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors},
   author={Li, Siyu and Cao, Yihong and Shi, Hao and Zang, Yongsheng and He, Xuan and Yang, Kailun and Li, Zhiyong},
-  journal={arXiv preprint arXiv:2503.xxxxx},
+  journal={arXiv preprint arXiv:2503.06821},
   year={2025}
 }
 ```
