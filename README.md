@@ -6,7 +6,7 @@
     ·
     <a href="https://scholar.google.com/citations?user=j3364z8AAAAJ"><strong>Yihong Cao</strong></a>
     ·
-    <a href="https://scholar.google.com/citations?hl=zh-CN&user=0EI9msQAAAAJ"><strong>Hao Shi</strong></a>
+    <a href="https://scholar.google.com/citations?user=0EI9msQAAAAJ"><strong>Hao Shi</strong></a>
     ·
     <a href=""><strong>Yongsheng Zang</strong></a>
     ·
