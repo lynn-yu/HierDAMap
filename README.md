@@ -42,6 +42,9 @@ The exploration of Bird's-Eye View (BEV) mapping technology has driven significa
 2025.4 Update HD mapping code
 2025.3 Init repository.
 
+### Acknowledgement
+The code framework of this project is based on ![DualCross](https://github.com/YunzeMan/DualCross) and ![Semi-BEVseg](https://github.com/Junyu-Z/Semi-BEVseg), thanks to this excellent work.
+
 ## 🤝 Publication:
 Please consider referencing this paper if you use the ```code``` from our work.
 Thanks a lot :)
